@@ -1,0 +1,48 @@
+{
+    "search_criteria": {
+        "filter_groups": [
+            {
+                "filters": [
+                    {
+                        "field": "email",
+                        "value": "test@mail.test",
+                        "condition_type": "eq"
+                    },
+                    {
+                        "field": "email",
+                        "value": "test@mail.test",
+                        "condition_type": "eq"
+                    }
+                ]
+            },
+            {
+                "filters": [
+                    {
+                        "field": "email",
+                        "value": "test@mail.test",
+                        "condition_type": "eq"
+                    },
+                    {
+                        "field": "email",
+                        "value": "test@mail.test",
+                        "condition_type": "eq"
+                    }
+                ]
+            }
+        ],
+        "sort_orders": [
+            {
+                "field": "email",
+                "direction": "asc"
+            }
+        ],
+        
+        "with": []
+    },
+    "page_size": 100,
+    "current_page": 1,
+
+    "first": true,
+    "take": 5,
+    "random_order": true
+}

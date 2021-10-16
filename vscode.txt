@@ -1,0 +1,68 @@
+Auto Rename Tag - Jun Han
+Auto-Open Markdown Preview - hnw
+bracket pair colorizer - coenraads
+code spell checker - street side software
+colonize - vmsynkov
+css peek - pranay prakash
+dotenv - mikestead
+eslint - dirk baeumer
+gitlens - gitkraken
+html css support - ecmel
+indent-rainbow - oderwat
+javascript es6 code snippets
+laravel artisan - ryan naddy
+laravel blade snippets - winnie lin
+laravel blade spacer - austen cameron
+laravel extra intellisense - amir
+laravel goto view - codingyu
+laravel snippets - winnie lin
+laravel-goto-controller - stef-k
+npm - egamma
+php debug - felix becker
+php intelephense - ben mewburn
+php intellisense - felix becker
+phpfmt - php formatter - kokoronin
+prettier - code formatter - prettier
+rest client - huachao mao
+veture - pine wu
+vscode-icons - vscode icons team
+npm intellisense - chrisitan kohler
+
+======
+
+{
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "vetur.validation.template": false,
+    "window.zoomLevel": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "newUntitledFile",
+    "cSpell.userWords": [
+        "Maatwebsite"
+    ],
+    "cSpell.language": "en,en-US",
+    "editor.largeFileOptimizations": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.tree.indent": 4,
+    "workbench.iconTheme": "vscode-icons",
+    "git.suggestSmartCommit": false,
+    "discord.detailsIdling": "Coffee Break",
+    "discord.removeRemoteRepository": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
+    "cSpell.caseSensitive": true,
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    "[php]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    }
+}
